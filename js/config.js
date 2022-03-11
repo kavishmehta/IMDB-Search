@@ -7,7 +7,7 @@ $( document ).ready(function() {
         })
     });
 
-    // The function below takes the entered title and searchs imdb for a match then it displays as followed
+    // The some cjavefunction below takes the entered title and searchs imdb for a match then it displays as followed
 
     function getImdbInfo(Title, page) {
         // var page = 1;
